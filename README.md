@@ -1,6 +1,6 @@
 ###Background
 
-Read more here: (http://www.darrinhenein.com/rapid-prototyping-part-one/)[http://www.darrinhenein.com/rapid-prototyping-part-one/]
+Read more here: [http://www.darrinhenein.com/rapid-prototyping-part-one/](http://www.darrinhenein.com/rapid-prototyping-part-one/)
 
 ###Requirements
 
