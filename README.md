@@ -10,7 +10,7 @@ Read more here: [http://www.darrinhenein.com/rapid-prototyping-part-one/](http:/
 
 ###Installation
 
-1. Install sketch-tool. Best way to do this is using Homebrew. `brew install Caskroom/cask/sketch-tool`
+1. Install sketch-tool. `$ curl -L https://raw.githubusercontent.com/cognitom/dotfiles/master/lib/sketchtool.sh | sudo sh`
 2. Clone the repo to your working directory. 
 2. Run `npm install` from the working directory. 
 
